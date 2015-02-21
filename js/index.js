@@ -1,9 +1,8 @@
 var clock;
 var anio = '2015';
 var mes = 'March';
-var dia = '10';
-var hora = '10:00:00';
-
+var dia = '12';
+var hora = '11:30:00';
 $(document).ready(function () {
     var clock;
 
