@@ -3,6 +3,12 @@
   -webkit-box-sizing: border-box;
 }
 
+.div_fondo {
+  background-image: url(https://lh6.googleusercontent.com/3f2tXWM9U2EEsE3R5hIewkBHtzVkc_OTC82duf6zA9BnrFNQazikZSO7RqnADxjUSn9we_B7wJc=w1245-h403);  
+  
+}
+
+
 body, html {
   margin: 0;
   padding: 0;
